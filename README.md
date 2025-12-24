@@ -46,7 +46,7 @@ You need a **userscript manager** extension installed in your browser:
 2. Click the Tampermonkey icon in your toolbar
 3. Select **"Create a new script"**
 4. Delete any template code in the editor
-5. Copy and paste the entire script from [`mangapark-fix.user.js`](mangapark-fix.user.js)
+5. Copy and paste the entire script from [`MangaPark Image Server Fix-2.0.user.js`](https://github.com/verybad3/mangapark_image_fix/blob/main/MangaPark%20Image%20Server%20Fix-2.0.user.js)
 6. Press `Ctrl + S` (Windows/Linux) or `Cmd + S` (Mac) to save
 7. Visit any MangaPark domain — the script runs automatically
 
