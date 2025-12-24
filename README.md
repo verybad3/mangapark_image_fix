@@ -107,6 +107,7 @@ javascript:(function(){const SERVERS=['s01','s02','s03','s04','s05','s06','s07',
 ### Script isn't running
 
 - Click the Tampermonkey icon on a MangaPark page — the script should be listed as active
+- ensure Allow User Scripts is enabled in tampermonkey extensions
 - Check that the script is enabled in the Tampermonkey dashboard
 - Try refreshing the page
 
